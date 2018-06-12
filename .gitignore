@@ -1,0 +1,9 @@
+*.log
+*.zip
+yarn.lock
+
+node_modules/*
+coverage/*
+dist/*
+min/*
+.vscode
